@@ -14,8 +14,11 @@
 ##
 <details>
   <summary>:zap: GitHub Stats</summary>
+
+  <br/>
   
-  ![GitHub stats](https://stats-brown.vercel.app/api?username=fraoro&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=true&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=FraOro&theme=github_dark&show_icons=true)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FraOro&theme=github-dark-blue)
   
 </details>
 
