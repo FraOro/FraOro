@@ -3,7 +3,7 @@
 <div align="center">I'm Francesco, also known as FraOro.</div>
 
 ## Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+<a href="https://dev.java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /></a>
 
 ## Contacts:
 <ul>  
